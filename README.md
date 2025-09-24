@@ -1,5 +1,9 @@
 # Axio – Animatronic Eye with Voice and AI
 
+
+https://github.com/user-attachments/assets/969f4634-7d05-4f24-bbf0-409ac9c5c5e4
+
+
 **Axio** is an interactive animatronic eye that combines Arduino-controlled servos, computer vision, speech recognition, and AI conversation powered by OpenAI.  
 It can track faces or hands, blink, sleep, and hold conversations with the user through a robotic voice.
 
@@ -34,6 +38,11 @@ It can track faces or hands, blink, sleep, and hold conversations with the user 
 ## Requirements
 
 ### Hardware
+
+![20250920_114914](https://github.com/user-attachments/assets/3bb53519-81a7-4abd-98a8-5c21647273bb)
+![20250920_111146](https://github.com/user-attachments/assets/5775a4d6-384b-425b-add1-6f668d2b4514)
+
+
 - **Arduino** (tested on Uno/Nano compatible)
 - **6x Servo motors**  
   - 4 for eyelids  
@@ -94,4 +103,5 @@ python axio.py
 
 ### License
 MIT License – free to use and modify for personal or research projects.
+
 
